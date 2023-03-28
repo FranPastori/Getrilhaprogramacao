@@ -1,6 +1,15 @@
 body{
-    background-image: url(fundo.png);
+    background-image: url(fundo.jpg);
 }
 .cabecalho {
     background-color:white;
+    display: flex;
 }
+.cabecalho__imagem {
+    width: 120px;
+    height: 140px;
+}
+.cabecalho__lista-item {
+    display: inline;
+}
+
