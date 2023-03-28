@@ -4,6 +4,8 @@ body{
 .cabecalho {
     background-color:white;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 .cabecalho__imagem {
     width: 120px;
