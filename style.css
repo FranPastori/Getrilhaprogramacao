@@ -20,3 +20,11 @@ body{
     display: inline;
 }
 
+.estudante-conteiner{
+display: flex;
+justify-content:center ;
+}
+.estudante__imagem{
+    width: 120px;
+    height: auto;
+}
