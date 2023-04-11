@@ -23,6 +23,7 @@ body{
 .estudante-conteiner{
 display: flex;
 justify-content:center ;
+flex-direction: column;
 }
 .estudante__imagem{
     width: 120px;
