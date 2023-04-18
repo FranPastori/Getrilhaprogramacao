@@ -34,7 +34,7 @@ flex-direction: column;
 .estudantes{
 
     display: grid;
-    justify-content:space-around;
+    justify-content:center;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     align-items: center;
    
