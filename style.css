@@ -33,9 +33,9 @@ flex-direction: column;
 
 .estudantes{
 
-    display: flex;
+    display: grid;
     justify-content: space-between;
-    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     align-items: center;
     gap: 40px;
 }
