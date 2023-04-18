@@ -24,7 +24,7 @@ body{
 display: flex;
 justify-content:center ;
 flex-direction: column;
-gap: 40px;
+
 }
 .estudante__imagem{
     width: 120px;
@@ -37,4 +37,5 @@ gap: 40px;
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
+    gap: 40px;
 }
