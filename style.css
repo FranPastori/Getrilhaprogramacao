@@ -29,3 +29,11 @@ flex-direction: column;
     width: 120px;
     height: auto;
 }
+
+.estudantes{
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
